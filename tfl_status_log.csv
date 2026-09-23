@@ -14,3 +14,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-09-23T20:36:36+00:00,piccadilly,Piccadilly,tube,9,Minor Delays,Piccadilly Line: Minor delays between South Harrow and Uxbridge while we fix a signal failure at Rayners lane. GOOD SERVICE on the rest of the line.,RealTime,2026-09-23T20:30:00Z,2026-09-24T00:29:00Z
 2026-09-23T20:36:36+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-09-23T20:36:36+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-09-23T23:08:22+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-09-23T23:08:22+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays due to to train cancellations.,RealTime,2026-09-23T20:04:52Z,2026-09-25T00:29:00Z
+2026-09-23T23:08:22+00:00,circle,Circle,tube,9,Minor Delays,Circle Line: Minor delays due to an earlier points failure at Tower Hill.,RealTime,2026-09-23T22:46:24Z,2026-09-25T00:29:00Z
+2026-09-23T23:08:22+00:00,district,District,tube,6,Severe Delays,District Line: Severe delays due to an earlier points failure at Tower Hill. London Buses are accepting tickets via any reasonable route.,RealTime,2026-09-23T22:56:18Z,2026-09-25T00:29:00Z
+2026-09-23T23:08:22+00:00,hammersmith-city,Hammersmith & City,tube,6,Severe Delays,Hammersmith and City Line: Severe delays due to an earlier points failure at Tower Hill.,RealTime,2026-09-23T21:31:05Z,2026-09-25T00:29:00Z
+2026-09-23T23:08:22+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-09-23T23:08:22+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-09-23T23:08:22+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-09-23T23:08:22+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-09-23T23:08:22+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-09-23T23:08:22+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
