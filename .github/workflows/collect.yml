@@ -1,0 +1,37 @@
+name: Collect TfL status
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run collector
+        run: python tfl_collector.py
+        env:
+          TFL_APP_KEY: ${{ secrets.TFL_APP_KEY }}
+
+      - name: Commit updated data
+        run: |
+          git config user.name "tfl-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add tfl_status_log.csv
+          git diff --quiet --cached || git commit -m "Update TfL status log $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
