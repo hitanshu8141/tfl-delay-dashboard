@@ -86,3 +86,15 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-09-24T20:36:25+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-09-24T20:36:25+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-09-24T20:36:25+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-09-24T23:27:23+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-09-24T23:27:23+00:00,central,Central,tube,10,Good Service,,,,
+2026-09-24T23:27:23+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-09-24T23:27:23+00:00,district,District,tube,10,Good Service,,,,
+2026-09-24T23:27:23+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-09-24T23:27:23+00:00,jubilee,Jubilee,tube,6,Severe Delays,Jubilee Line: No service between Willesden Green and Stanmore while we fix a signal failure at Wembley Park. SEVERE DELAYS on the rest of the line.,RealTime,2026-09-24T22:57:23Z,2026-09-26T00:29:00Z
+2026-09-24T23:27:23+00:00,jubilee,Jubilee,tube,3,Part Suspended,Jubilee Line: No service between Willesden Green and Stanmore while we fix a signal failure at Wembley Park. SEVERE DELAYS on the rest of the line.,RealTime,2026-09-24T22:57:23Z,2026-09-25T02:26:35Z
+2026-09-24T23:27:23+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-09-24T23:27:23+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-09-24T23:27:23+00:00,piccadilly,Piccadilly,tube,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Uxbridge due to an earlier customer incident at Wood Green. GOOD SERVICE on the rest of the line.,RealTime,2026-09-24T22:31:52Z,2026-09-26T00:29:00Z
+2026-09-24T23:27:23+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-09-24T23:27:23+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime,2026-09-24T23:24:31Z,2026-09-25T02:26:35Z
