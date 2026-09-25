@@ -160,3 +160,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-09-25T20:44:49+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-09-25T20:44:49+00:00,victoria,Victoria,tube,6,Severe Delays,Victoria Line: Severe delays due to an earlier person ill on a train at Oxford Circus.,RealTime,2026-09-25T20:04:32Z,2026-09-26T00:29:00Z
 2026-09-25T20:44:49+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-09-25T23:37:42+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-09-25T23:37:42+00:00,central,Central,tube,10,Good Service,,,,
+2026-09-25T23:37:42+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-09-25T23:37:42+00:00,district,District,tube,10,Good Service,,,,
+2026-09-25T23:37:42+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-09-25T23:37:42+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-09-25T23:37:42+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-09-25T23:37:42+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-09-25T23:37:42+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-09-25T23:37:42+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-09-25T23:37:42+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime,2026-09-25T23:37:00Z,2026-09-26T02:37:25Z
