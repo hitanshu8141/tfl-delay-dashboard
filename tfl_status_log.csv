@@ -109,3 +109,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-09-25T01:49:56+00:00,piccadilly,Piccadilly,tube,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime,2026-09-25T00:15:08Z,2026-09-25T04:49:08Z
 2026-09-25T01:49:56+00:00,victoria,Victoria,tube,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime,2026-09-25T00:14:47Z,2026-09-25T04:49:08Z
 2026-09-25T01:49:56+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime,2026-09-24T23:24:31Z,2026-09-25T04:49:08Z
+2026-09-25T06:50:12+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-09-25T06:50:12+00:00,central,Central,tube,10,Good Service,,,,
+2026-09-25T06:50:12+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-09-25T06:50:12+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays between Earl's Court and Wimbledon due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-09-25T06:31:01Z,2026-09-26T00:29:00Z
+2026-09-25T06:50:12+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-09-25T06:50:12+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-09-25T06:50:12+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-09-25T06:50:12+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-09-25T06:50:12+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-09-25T06:50:12+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to a track fault at Brixton.,RealTime,2026-09-25T05:39:14Z,2026-09-26T00:29:00Z
+2026-09-25T06:50:12+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
