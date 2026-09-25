@@ -146,3 +146,17 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-09-25T17:33:20+00:00,piccadilly,Piccadilly,tube,6,Severe Delays,Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals due to an earlier trespasser on the track at Hatton Cross. GOOD SERVICE on the rest of the line.,RealTime,2026-09-25T17:09:43Z,2026-09-26T00:29:00Z
 2026-09-25T17:33:20+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays between Victoria and Brixton while we fix a track fault at Brixton.,RealTime,2026-09-25T16:04:30Z,2026-09-26T00:29:00Z
 2026-09-25T17:33:20+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-09-25T20:44:49+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-09-25T20:44:49+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-09-25T18:37:45Z,2026-09-26T00:29:00Z
+2026-09-25T20:44:49+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-09-25T18:37:45Z,2026-09-26T00:29:00Z
+2026-09-25T20:44:49+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-09-25T18:37:45Z,2026-09-26T00:29:00Z
+2026-09-25T20:44:49+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays between White City and Ealing Broadway / West Ruislip and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-09-25T18:37:45Z,2026-09-26T00:29:00Z
+2026-09-25T20:44:49+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-09-25T20:44:49+00:00,district,District,tube,10,Good Service,,,,
+2026-09-25T20:44:49+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-09-25T20:44:49+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-09-25T20:44:49+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-09-25T20:44:49+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-09-25T20:44:49+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-09-25T20:44:49+00:00,victoria,Victoria,tube,6,Severe Delays,Victoria Line: Severe delays due to an earlier person ill on a train at Oxford Circus.,RealTime,2026-09-25T20:04:32Z,2026-09-26T00:29:00Z
+2026-09-25T20:44:49+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
