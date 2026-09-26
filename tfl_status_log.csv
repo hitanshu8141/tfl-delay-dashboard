@@ -171,3 +171,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-09-25T23:37:42+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-09-25T23:37:42+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-09-25T23:37:42+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime,2026-09-25T23:37:00Z,2026-09-26T02:37:25Z
+2026-09-26T01:59:59+00:00,bakerloo,Bakerloo,tube,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime,2026-09-26T00:14:19Z,2026-09-26T04:59:42Z
+2026-09-26T01:59:59+00:00,central,Central,tube,5,Part Closure,"CENTRAL LINE: Saturday 26 September, between 0210 and 0530, no Night Tube service between Marble Arch and Loughton / Hainault (via Newbury Park). Replacement bus service CL5 operates between Stratford City Bus Station (for Stratford) and Loughton via Leyton, Leytonstone (eastbound buses serve Leytonstone High Road instead), Snaresbrook, South Woodford, Woodford and Buckhurst Hill. Use Night Bus N8 for Wanstead, Redbridge, Gants Hill, Barkingside, Fairlop (Barkingside, Fullwell Cross) and Hainault.",PlannedWork,2026-09-26T00:15:00Z,2026-09-26T03:15:00Z
+2026-09-26T01:59:59+00:00,circle,Circle,tube,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime,2026-09-26T00:14:13Z,2026-09-26T04:59:42Z
+2026-09-26T01:59:59+00:00,district,District,tube,20,Service Closed,District Line: Service will resume later this morning.,RealTime,2026-09-26T00:14:55Z,2026-09-26T04:59:42Z
+2026-09-26T01:59:59+00:00,hammersmith-city,Hammersmith & City,tube,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime,2026-09-26T00:15:27Z,2026-09-26T04:59:42Z
+2026-09-26T01:59:59+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-09-26T01:59:59+00:00,metropolitan,Metropolitan,tube,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime,2026-09-26T00:15:38Z,2026-09-26T04:59:42Z
+2026-09-26T01:59:59+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-09-26T01:59:59+00:00,piccadilly,Piccadilly,tube,5,Part Closure,"PICCADILLY LINE: From 0200 Saturday 26 and all day Sunday 27 September (including Friday and Saturday Night Tube), no service between Cockfosters and Acton Town. Trains continue to operate between Acton Town and Heathrow. Use DISTRICT LINE trains between Central London and Acton Town / Ealing Common and METROPOLITAN LINE trains between Rayners Lane and Uxbridge. Use ELIZABETH LINE trains for travel between Central London and Heathrow. Replacement buses operate.",PlannedWork,2026-09-26T00:15:00Z,2026-09-28T03:15:00Z
+2026-09-26T01:59:59+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-09-26T01:59:59+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime,2026-09-25T23:37:00Z,2026-09-26T04:59:42Z
