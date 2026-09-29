@@ -365,3 +365,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-09-29T00:40:16+00:00,piccadilly,Piccadilly,tube,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime,2026-09-29T00:19:31Z,2026-09-29T03:39:22Z
 2026-09-29T00:40:16+00:00,victoria,Victoria,tube,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime,2026-09-29T00:20:42Z,2026-09-29T03:39:22Z
 2026-09-29T00:40:16+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime,2026-09-28T23:29:43Z,2026-09-29T03:39:22Z
+2026-09-29T06:17:01+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-09-29T06:17:01+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime,2026-09-29T05:39:44Z,2026-09-30T00:29:00Z
+2026-09-29T06:17:01+00:00,circle,Circle,tube,9,Minor Delays,Circle Line: Minor delays while we fix a faulty train at High Street Kensington.,RealTime,2026-09-29T05:47:40Z,2026-09-30T00:29:00Z
+2026-09-29T06:17:01+00:00,district,District,tube,6,Severe Delays,District Line: Severe delays due to an earlier faulty train at Earl's Court. Tickets are being accepted on London Buses.,RealTime,2026-09-29T06:05:28Z,2026-09-30T00:29:00Z
+2026-09-29T06:17:01+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-09-29T06:17:01+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-09-29T06:17:01+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-09-29T06:17:01+00:00,northern,Northern,tube,9,Minor Delays,Northern Line: Minor Delays between Camden Town and Kennington via Bank southbound only while we help a person ill on the train at Angel. GOOD SERVICE on the rest of the line.,RealTime,2026-09-29T05:58:30Z,2026-09-30T00:29:00Z
+2026-09-29T06:17:01+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-09-29T06:17:01+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to while we fix infrastructure damage at Brixton.,RealTime,2026-09-29T05:14:27Z,2026-09-30T00:29:00Z
+2026-09-29T06:17:01+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
