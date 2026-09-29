@@ -376,3 +376,18 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-09-29T06:17:01+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-09-29T06:17:01+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to while we fix infrastructure damage at Brixton.,RealTime,2026-09-29T05:14:27Z,2026-09-30T00:29:00Z
 2026-09-29T06:17:01+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-09-29T13:07:43+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-09-29T13:07:43+00:00,central,Central,tube,9,Minor Delays,"Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip, and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.",RealTime,2026-09-29T12:22:39Z,2026-09-30T00:29:00Z
+2026-09-29T13:07:43+00:00,central,Central,tube,9,Minor Delays,"Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip, and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.",RealTime,2026-09-29T12:22:39Z,2026-09-30T00:29:00Z
+2026-09-29T13:07:43+00:00,central,Central,tube,9,Minor Delays,"Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip, and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.",RealTime,2026-09-29T12:22:39Z,2026-09-30T00:29:00Z
+2026-09-29T13:07:43+00:00,central,Central,tube,9,Minor Delays,"Central Line: Minor delays between North Acton and Ealing Broadway/West Ruislip, and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.",RealTime,2026-09-29T12:22:39Z,2026-09-30T00:29:00Z
+2026-09-29T13:07:43+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-09-29T13:07:43+00:00,district,District,tube,10,Good Service,,,,
+2026-09-29T13:07:43+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-09-29T13:07:43+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-09-29T13:07:43+00:00,metropolitan,Metropolitan,tube,9,Minor Delays,"Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford, and MINOR DELAYS between Moor Park and Amersham due to an earlier signal failure at Harrow-on-the-Hill. Tickets are being accepted on London Buses, Lioness Line, Northwestern Railway and Chiltern Railway via any reasonable route. GOOD SERVICE on the rest of the line.",RealTime,2026-09-29T13:06:46Z,2026-09-30T00:29:00Z
+2026-09-29T13:07:43+00:00,metropolitan,Metropolitan,tube,6,Severe Delays,"Metropolitan Line: Severe delays between Harrow-on-the-Hill and Watford, and MINOR DELAYS between Moor Park and Amersham due to an earlier signal failure at Harrow-on-the-Hill. Tickets are being accepted on London Buses, Lioness Line, Northwestern Railway and Chiltern Railway via any reasonable route. GOOD SERVICE on the rest of the line.",RealTime,2026-09-29T13:06:46Z,2026-09-30T00:29:00Z
+2026-09-29T13:07:43+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-09-29T13:07:43+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-09-29T13:07:43+00:00,victoria,Victoria,tube,6,Severe Delays,"Victoria Line: Severe delays due to infrastructure damage at Brixton. Tickets are being accepted on, London Buses, Weaver Line, Suffragette Line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services via any reasonable route.",RealTime,2026-09-29T11:13:13Z,2026-09-30T00:29:00Z
+2026-09-29T13:07:43+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
