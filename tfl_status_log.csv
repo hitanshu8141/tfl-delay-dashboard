@@ -426,3 +426,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-09-30T01:36:19+00:00,piccadilly,Piccadilly,tube,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime,2026-09-30T00:23:08Z,2026-09-30T04:35:02Z
 2026-09-30T01:36:19+00:00,victoria,Victoria,tube,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime,2026-09-30T00:25:50Z,2026-09-30T04:35:02Z
 2026-09-30T01:36:19+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime,2026-09-29T23:35:22Z,2026-09-30T04:35:02Z
+2026-09-30T07:27:50+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-09-30T07:27:50+00:00,central,Central,tube,10,Good Service,,,,
+2026-09-30T07:27:50+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-09-30T07:27:50+00:00,district,District,tube,9,Minor Delays,"District Line: Minor delays between Upminster and Earl's Court westbound only, due to an earlier faulty train at Bromley-by-Bow. GOOD SERVICE on the rest of the line.",RealTime,2026-09-30T07:08:00Z,2026-10-01T00:29:00Z
+2026-09-30T07:27:50+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-09-30T07:27:50+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-09-30T07:27:50+00:00,metropolitan,Metropolitan,tube,3,Part Suspended,"Metropolitan Line: No service between Aldgate and Uxbridge while we deal with a signalling problem at Rayners Lane and a fire alert in the Kilburn area. Tickets are being accepted on, London Buses, Lioness Line, London Northwestern Railway, Chiltern Railways and Thameslink via any reasonable route. GOOD SERVICE on the rest of the line.",RealTime,2026-09-30T07:26:11Z,2026-09-30T10:27:12Z
+2026-09-30T07:27:50+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-09-30T07:27:50+00:00,piccadilly,Piccadilly,tube,3,Part Suspended,Piccadilly Line: No service between South Harrow and Uxbridge while we deal with a signalling problem at Rayners Lane. Tickets will be accepted on London Buses via any reasonable route. GOOD SERVICE on the rest of the line.,RealTime,2026-09-30T06:52:54Z,2026-09-30T10:27:12Z
+2026-09-30T07:27:50+00:00,victoria,Victoria,tube,6,Severe Delays,"Victoria Line: Severe delays due to infrastructure damage at Brixton. Tickets will be accepted on, London Buses, Weaver Line, Suffragette Line, Great Northern, Thameslink, South Western Railway and Southeastern via any reasonable route.",RealTime,2026-09-30T06:31:34Z,2026-10-01T00:29:00Z
+2026-09-30T07:27:50+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
