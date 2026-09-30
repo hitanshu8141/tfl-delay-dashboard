@@ -415,3 +415,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-09-29T22:38:24+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-09-29T22:38:24+00:00,victoria,Victoria,tube,6,Severe Delays,"Victoria Line: Severe delays due to infrastructure damage at Brixton. Tickets are being accepted on, London Buses, Weaver Line, Suffragette Line, Great Northern, Thameslink, Greater Anglia, South Western Railway and Southeastern services via any reasonable route.",RealTime,2026-09-29T11:13:13Z,2026-09-30T00:29:00Z
 2026-09-29T22:38:24+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-09-30T01:36:19+00:00,bakerloo,Bakerloo,tube,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime,2026-09-30T00:19:01Z,2026-09-30T04:35:02Z
+2026-09-30T01:36:19+00:00,central,Central,tube,20,Service Closed,Central Line: Service will resume later this morning.,RealTime,2026-09-30T00:19:42Z,2026-09-30T04:35:02Z
+2026-09-30T01:36:19+00:00,circle,Circle,tube,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime,2026-09-30T00:19:59Z,2026-09-30T04:35:02Z
+2026-09-30T01:36:19+00:00,district,District,tube,20,Service Closed,District Line: Service will resume later this morning.,RealTime,2026-09-30T00:20:15Z,2026-09-30T04:35:02Z
+2026-09-30T01:36:19+00:00,hammersmith-city,Hammersmith & City,tube,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime,2026-09-30T00:20:59Z,2026-09-30T04:35:02Z
+2026-09-30T01:36:19+00:00,jubilee,Jubilee,tube,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime,2026-09-30T00:21:21Z,2026-09-30T04:35:02Z
+2026-09-30T01:36:19+00:00,metropolitan,Metropolitan,tube,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime,2026-09-30T00:21:40Z,2026-09-30T04:35:02Z
+2026-09-30T01:36:19+00:00,northern,Northern,tube,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime,2026-09-30T00:21:53Z,2026-09-30T04:35:02Z
+2026-09-30T01:36:19+00:00,piccadilly,Piccadilly,tube,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime,2026-09-30T00:23:08Z,2026-09-30T04:35:02Z
+2026-09-30T01:36:19+00:00,victoria,Victoria,tube,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime,2026-09-30T00:25:50Z,2026-09-30T04:35:02Z
+2026-09-30T01:36:19+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime,2026-09-29T23:35:22Z,2026-09-30T04:35:02Z
