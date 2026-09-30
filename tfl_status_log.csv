@@ -448,3 +448,17 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-09-30T14:10:20+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-09-30T14:10:20+00:00,victoria,Victoria,tube,6,Severe Delays,"Victoria Line: Severe delays due to a track fault at Brixton. Tickets will be accepted on, London Buses, Weaver Line, Suffragette Line, Great Northern, Thameslink, South Western Railway and Southeastern via any reasonable route.",RealTime,2026-09-30T12:17:51Z,2026-10-01T00:29:00Z
 2026-09-30T14:10:20+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-09-30T19:28:35+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-09-30T19:28:35+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays between North Acton and West Ruislip / Ealing Broadway and between Leytonstone and Epping / Hainault due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-09-30T18:30:40Z,2026-10-01T00:29:00Z
+2026-09-30T19:28:35+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays between North Acton and West Ruislip / Ealing Broadway and between Leytonstone and Epping / Hainault due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-09-30T18:30:40Z,2026-10-01T00:29:00Z
+2026-09-30T19:28:35+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays between North Acton and West Ruislip / Ealing Broadway and between Leytonstone and Epping / Hainault due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-09-30T18:30:40Z,2026-10-01T00:29:00Z
+2026-09-30T19:28:35+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays between North Acton and West Ruislip / Ealing Broadway and between Leytonstone and Epping / Hainault due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-09-30T18:30:40Z,2026-10-01T00:29:00Z
+2026-09-30T19:28:35+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-09-30T19:28:35+00:00,district,District,tube,10,Good Service,,,,
+2026-09-30T19:28:35+00:00,hammersmith-city,Hammersmith & City,tube,9,Minor Delays,Hammersmith and City Line: Minor delays between Barking and Liverpool Street westbound only due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-09-30T19:16:02Z,2026-10-01T00:29:00Z
+2026-09-30T19:28:35+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-09-30T19:28:35+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-09-30T19:28:35+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-09-30T19:28:35+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-09-30T19:28:35+00:00,victoria,Victoria,tube,6,Severe Delays,"Victoria Line: Severe delays due to a track fault at Brixton. Tickets will be accepted on, London Buses, Weaver Line, Suffragette Line, Great Northern, Greater Anglia, Thameslink, South Western Railway and Southeastern via any reasonable route.",RealTime,2026-09-30T18:06:29Z,2026-10-01T00:29:00Z
+2026-09-30T19:28:35+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
