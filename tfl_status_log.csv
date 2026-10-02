@@ -571,3 +571,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-02T18:37:49+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-10-02T18:37:49+00:00,victoria,Victoria,tube,6,Severe Delays,"Victoria Line: Severe delays due to a track fault at Brixton. London Buses, Weaver line, Suffragette line, Great Northern, Thameslink and Greater Anglia, South Western Railway and Southeastern are accepting valid tickets via any reasonable route.",RealTime,2026-10-02T06:08:26Z,2026-10-03T00:29:00Z
 2026-10-02T18:37:49+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-10-02T22:33:51+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-10-02T22:33:51+00:00,central,Central,tube,10,Good Service,,,,
+2026-10-02T22:33:51+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-10-02T22:33:51+00:00,district,District,tube,10,Good Service,,,,
+2026-10-02T22:33:51+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-10-02T22:33:51+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-10-02T22:33:51+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-10-02T22:33:51+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-10-02T22:33:51+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-10-02T22:33:51+00:00,victoria,Victoria,tube,6,Severe Delays,"Victoria Line: Severe delays due to a track fault at Brixton. London Buses, Weaver line, Suffragette line, Great Northern, Thameslink and Greater Anglia, South Western Railway and Southeastern are accepting valid tickets via any reasonable route.",RealTime,2026-10-02T06:08:26Z,2026-10-03T00:29:00Z
+2026-10-02T22:33:51+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
