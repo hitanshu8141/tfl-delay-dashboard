@@ -582,3 +582,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-02T22:33:51+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-10-02T22:33:51+00:00,victoria,Victoria,tube,6,Severe Delays,"Victoria Line: Severe delays due to a track fault at Brixton. London Buses, Weaver line, Suffragette line, Great Northern, Thameslink and Greater Anglia, South Western Railway and Southeastern are accepting valid tickets via any reasonable route.",RealTime,2026-10-02T06:08:26Z,2026-10-03T00:29:00Z
 2026-10-02T22:33:51+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-10-03T01:25:45+00:00,bakerloo,Bakerloo,tube,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime,2026-10-03T00:17:06Z,2026-10-03T04:25:01Z
+2026-10-03T01:25:45+00:00,central,Central,tube,10,Good Service,,,,
+2026-10-03T01:25:45+00:00,circle,Circle,tube,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime,2026-10-03T00:17:29Z,2026-10-03T04:25:01Z
+2026-10-03T01:25:45+00:00,district,District,tube,20,Service Closed,District Line: Service will resume later this morning.,RealTime,2026-10-03T00:17:45Z,2026-10-03T04:25:01Z
+2026-10-03T01:25:45+00:00,hammersmith-city,Hammersmith & City,tube,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime,2026-10-03T00:18:34Z,2026-10-03T04:25:01Z
+2026-10-03T01:25:45+00:00,jubilee,Jubilee,tube,5,Part Closure,"JUBILEE LINE: Saturday 3 October, between 0130 and 0430, no service between Finchley Road and Stratford. Replacement bus service JL3 operates between North Greenwich, Canning Town and Stratford.",PlannedWork,2026-10-03T00:30:00Z,2026-10-03T03:30:00Z
+2026-10-03T01:25:45+00:00,metropolitan,Metropolitan,tube,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime,2026-10-03T00:21:03Z,2026-10-03T04:25:01Z
+2026-10-03T01:25:45+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-10-03T01:25:45+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-10-03T01:25:45+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-10-03T01:25:45+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime,2026-10-03T00:26:26Z,2026-10-03T04:25:01Z
