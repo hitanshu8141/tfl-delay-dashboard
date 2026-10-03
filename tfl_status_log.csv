@@ -615,3 +615,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-03T12:27:12+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-10-03T12:27:12+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to a track fault at Brixton,RealTime,2026-10-03T07:08:06Z,2026-10-04T00:29:00Z
 2026-10-03T12:27:12+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information,2026-10-03T03:15:00Z,2026-10-03T22:59:00Z
+2026-10-03T16:37:51+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-10-03T16:37:51+00:00,central,Central,tube,10,Good Service,,,,
+2026-10-03T16:37:51+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-10-03T16:37:51+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-10-03T16:25:10Z,2026-10-04T00:29:00Z
+2026-10-03T16:37:51+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-10-03T16:37:51+00:00,jubilee,Jubilee,tube,5,Part Closure,"JUBILEE LINE: From 0430 Saturday 3 until 0130 Sunday 4 October, no service between Green Park and Canary Wharf. If travelling between Central London and North Greenwich, please travel via Stratford.",PlannedWork,2026-10-03T03:30:00Z,2026-10-04T00:29:00Z
+2026-10-03T16:37:51+00:00,metropolitan,Metropolitan,tube,9,Minor Delays,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-10-03T11:59:00Z,2026-10-04T00:29:00Z
+2026-10-03T16:37:51+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-10-03T16:37:51+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-10-03T16:37:51+00:00,victoria,Victoria,tube,6,Severe Delays,"Victoria Line: Severe delays due to a track fault at Brixton and a earlier faulty train at Oxford Circus. Tickets are being accepted on London Buses, the Weaver line and the Suffragette line. Southeastern, South Western Railway, Greater Anglia, Great Northern and Thameslink.",RealTime,2026-10-03T16:20:56Z,2026-10-04T00:29:00Z
+2026-10-03T16:37:51+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information,2026-10-03T03:15:00Z,2026-10-03T22:59:00Z
