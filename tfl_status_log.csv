@@ -760,3 +760,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-05T20:46:42+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-10-05T20:46:42+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-10-05T20:46:42+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-10-06T01:32:43+00:00,bakerloo,Bakerloo,tube,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime,2026-10-06T00:13:06Z,2026-10-06T04:31:55Z
+2026-10-06T01:32:43+00:00,central,Central,tube,20,Service Closed,Central Line: Service will resume at 06:00.,RealTime,2026-10-06T00:13:19Z,2026-10-06T04:31:55Z
+2026-10-06T01:32:43+00:00,circle,Circle,tube,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime,2026-10-06T00:13:33Z,2026-10-06T04:31:55Z
+2026-10-06T01:32:43+00:00,district,District,tube,20,Service Closed,District Line: Service will resume later this morning.,RealTime,2026-10-06T00:13:50Z,2026-10-06T04:31:55Z
+2026-10-06T01:32:43+00:00,hammersmith-city,Hammersmith & City,tube,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime,2026-10-06T00:14:05Z,2026-10-06T04:31:55Z
+2026-10-06T01:32:43+00:00,jubilee,Jubilee,tube,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime,2026-10-06T00:14:14Z,2026-10-06T04:31:55Z
+2026-10-06T01:32:43+00:00,metropolitan,Metropolitan,tube,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime,2026-10-06T00:14:23Z,2026-10-06T04:31:55Z
+2026-10-06T01:32:43+00:00,northern,Northern,tube,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime,2026-10-06T00:14:31Z,2026-10-06T04:31:55Z
+2026-10-06T01:32:43+00:00,piccadilly,Piccadilly,tube,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime,2026-10-06T00:15:01Z,2026-10-06T04:31:55Z
+2026-10-06T01:32:43+00:00,victoria,Victoria,tube,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime,2026-10-06T00:15:30Z,2026-10-06T04:31:55Z
+2026-10-06T01:32:43+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime,2026-10-05T23:31:27Z,2026-10-06T04:31:55Z
