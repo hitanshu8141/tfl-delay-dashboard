@@ -771,3 +771,17 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-06T01:32:43+00:00,piccadilly,Piccadilly,tube,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime,2026-10-06T00:15:01Z,2026-10-06T04:31:55Z
 2026-10-06T01:32:43+00:00,victoria,Victoria,tube,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime,2026-10-06T00:15:30Z,2026-10-06T04:31:55Z
 2026-10-06T01:32:43+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime,2026-10-05T23:31:27Z,2026-10-06T04:31:55Z
+2026-10-06T08:06:53+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-10-06T08:06:53+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-10-06T07:16:42Z,2026-10-07T00:29:00Z
+2026-10-06T08:06:53+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-10-06T07:16:42Z,2026-10-07T00:29:00Z
+2026-10-06T08:06:53+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-10-06T07:16:42Z,2026-10-07T00:29:00Z
+2026-10-06T08:06:53+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-10-06T07:16:42Z,2026-10-07T00:29:00Z
+2026-10-06T08:06:53+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-10-06T08:06:53+00:00,district,District,tube,10,Good Service,,,,
+2026-10-06T08:06:53+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-10-06T08:06:53+00:00,jubilee,Jubilee,tube,9,Minor Delays,Jubilee Line: Minor delays due to an earlier fire alert at Stanmore.,RealTime,2026-10-06T07:54:14Z,2026-10-07T00:29:00Z
+2026-10-06T08:06:53+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-10-06T08:06:53+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-10-06T08:06:53+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-10-06T08:06:53+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-10-06T08:06:53+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
