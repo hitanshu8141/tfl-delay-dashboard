@@ -821,3 +821,15 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-06T23:59:42+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-10-06T23:59:42+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime,2026-10-06T16:03:19Z,2026-10-08T00:29:00Z
 2026-10-06T23:59:42+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime,2026-10-06T23:30:32Z,2026-10-07T02:57:54Z
+2026-10-07T05:46:00+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-10-07T05:46:00+00:00,central,Central,tube,10,Good Service,,,,
+2026-10-07T05:46:00+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-10-07T05:46:00+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays between Earl's Court and Wimbledon / Ealing Broadway due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-10-07T05:07:06Z,2026-10-08T00:29:00Z
+2026-10-07T05:46:00+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays between Earl's Court and Wimbledon / Ealing Broadway due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-10-07T05:07:06Z,2026-10-08T00:29:00Z
+2026-10-07T05:46:00+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-10-07T05:46:00+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-10-07T05:46:00+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-10-07T05:46:00+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-10-07T05:46:00+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-10-07T05:46:00+00:00,victoria,Victoria,tube,6,Severe Delays,"Victoria Line: Severe delays due to train cancellations. London Underground tickets will be accepted on London buses, Weaver line, Suffragette line, Great Northern, Greater Anglia, South Western railways and Southeastern.",RealTime,2026-10-07T04:46:40Z,2026-10-08T00:29:00Z
+2026-10-07T05:46:00+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
