@@ -1159,3 +1159,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-13T11:33:49+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-10-13T11:33:49+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-10-13T11:33:49+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-10-13T18:30:10+00:00,bakerloo,Bakerloo,tube,9,Minor Delays,Bakerloo Line: Minor delays due to train cancellations.,RealTime,2026-10-13T15:59:50Z,2026-10-14T00:29:00Z
+2026-10-13T18:30:10+00:00,central,Central,tube,6,Severe Delays,"Central Line: Severe delays due to an earlier trespasser on the track at Snaresbrook. Tickets are being accepted on London Buses, Liberty line, Chiltern Railways, Elizabeth Line and Greater Anglia and Great Western Railway.",RealTime,2026-10-13T16:13:35Z,2026-10-14T00:29:00Z
+2026-10-13T18:30:10+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-10-13T18:30:10+00:00,district,District,tube,10,Good Service,,,,
+2026-10-13T18:30:10+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-10-13T18:30:10+00:00,jubilee,Jubilee,tube,6,Severe Delays,"Jubilee Line: Severe delays due to an earlier signal failure at Canary Wharf. Tickets will be accepted on London Buses, London Overground, DLR, Elizabeth Line, C2C, South Eastern and Thameslink via any reasonable route.",RealTime,2026-10-13T18:05:53Z,2026-10-14T00:29:00Z
+2026-10-13T18:30:10+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-10-13T18:30:10+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-10-13T18:30:10+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-10-13T18:30:10+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-10-13T18:30:10+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
