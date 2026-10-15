@@ -1290,3 +1290,15 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-15T14:19:34+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-10-15T14:19:34+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-10-15T14:19:34+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-10-15T18:25:48+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-10-15T18:25:48+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime,2026-10-15T16:02:44Z,2026-10-16T00:29:00Z
+2026-10-15T18:25:48+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-10-15T18:25:48+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays between Earl's Court and Wimbledon while we fix a track fault at Southfields. GOOD SERVICE on the rest of the line.,RealTime,2026-10-15T17:34:01Z,2026-10-16T00:29:00Z
+2026-10-15T18:25:48+00:00,hammersmith-city,Hammersmith & City,tube,9,Minor Delays,Hammersmith and City Line: Minor delays due to train cancellations.,RealTime,2026-10-15T16:05:00Z,2026-10-16T00:29:00Z
+2026-10-15T18:25:48+00:00,jubilee,Jubilee,tube,6,Severe Delays,"Jubilee Line: No service between Stratford and Canary Wharf and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, London Overground, C2C and Thameslink services via any reasonable route.",RealTime,2026-10-15T18:22:06Z,2026-10-16T00:29:00Z
+2026-10-15T18:25:48+00:00,jubilee,Jubilee,tube,3,Part Suspended,"Jubilee Line: No service between Stratford and Canary Wharf and SEVERE DELAYS on the rest of the line while we fix a points failure at North Greenwich. Tickets will be accepted on London Buses, Elizabeth Line, London Overground, C2C and Thameslink services via any reasonable route.",RealTime,2026-10-15T18:22:06Z,2026-10-15T21:24:20Z
+2026-10-15T18:25:48+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-10-15T18:25:48+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-10-15T18:25:48+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-10-15T18:25:48+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime,2026-10-15T15:41:29Z,2026-10-16T00:29:00Z
+2026-10-15T18:25:48+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
