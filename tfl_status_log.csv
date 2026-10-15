@@ -1302,3 +1302,15 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-15T18:25:48+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-10-15T18:25:48+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime,2026-10-15T15:41:29Z,2026-10-16T00:29:00Z
 2026-10-15T18:25:48+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-10-15T21:40:20+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-10-15T21:40:20+00:00,central,Central,tube,10,Good Service,,,,
+2026-10-15T21:40:20+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-10-15T21:40:20+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays between Earl's Court and Wimbledon while we fix a track fault at Southfields. GOOD SERVICE on the rest of the line.,RealTime,2026-10-15T17:34:01Z,2026-10-16T00:29:00Z
+2026-10-15T21:40:20+00:00,hammersmith-city,Hammersmith & City,tube,6,Severe Delays,"Hammersmith and City Line: Severe delays due to train cancellations. Tickets being accepted by London Buses, DLR, Elizabeth Line and C2C via any reasonable route.",RealTime,2026-10-15T19:42:34Z,2026-10-16T00:29:00Z
+2026-10-15T21:40:20+00:00,jubilee,Jubilee,tube,6,Severe Delays,"Jubilee Line: Severe delays due to earlier points failures at North Greenwich and Canary Wharf. Tickets will be accepted on London Buses, Elizabeth Line, Mildmay line, C2C and Thameslink services.",RealTime,2026-10-15T20:53:14Z,2026-10-16T00:29:00Z
+2026-10-15T21:40:20+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-10-15T21:40:20+00:00,northern,Northern,tube,6,Severe Delays,"Northern Line: Severe delays between Camden Town and Battersea Power Station via Charing Cross due to a points failure at Camden Town. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. All southbound trains from High Barnet will run via Bank, take the first train and change at Camden Town for the Charing Cross branch.",RealTime,2026-10-15T20:58:26Z,2026-10-16T00:29:00Z
+2026-10-15T21:40:20+00:00,northern,Northern,tube,9,Minor Delays,"Northern Line: Severe delays between Camden Town and Battersea Power Station via Charing Cross due to a points failure at Camden Town. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. All southbound trains from High Barnet will run via Bank, take the first train and change at Camden Town for the Charing Cross branch.",RealTime,2026-10-15T20:58:26Z,2026-10-16T00:29:00Z
+2026-10-15T21:40:20+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-10-15T21:40:20+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime,2026-10-15T20:01:17Z,2026-10-16T00:29:00Z
+2026-10-15T21:40:20+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
