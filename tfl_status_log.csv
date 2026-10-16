@@ -1337,3 +1337,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-16T03:58:35+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-10-16T03:58:35+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-10-16T03:58:35+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime,2026-10-15T23:28:12Z,2026-10-16T06:57:02Z
+2026-10-16T08:57:22+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-10-16T08:57:22+00:00,central,Central,tube,10,Good Service,,,,
+2026-10-16T08:57:22+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-10-16T08:57:22+00:00,district,District,tube,6,Severe Delays,District Line: Severe delays between Earl's Court and Wimbledon due to an earlier points failure at Parsons Green. Tickets will be accepted on London Buses and South Western Railway services. GOOD SERVICE on the rest of the line.,RealTime,2026-10-16T08:25:03Z,2026-10-17T00:29:00Z
+2026-10-16T08:57:22+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-10-16T08:57:22+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-10-16T08:57:22+00:00,metropolitan,Metropolitan,tube,9,Minor Delays,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Chesham due to an earlier trespasser on the track at Preston Road. GOOD SERVICE on the rest of the line.,RealTime,2026-10-16T08:35:21Z,2026-10-17T00:29:00Z
+2026-10-16T08:57:22+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-10-16T08:57:22+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-10-16T08:57:22+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-10-16T08:57:22+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
