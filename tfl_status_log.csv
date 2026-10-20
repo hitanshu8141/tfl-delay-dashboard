@@ -1680,3 +1680,16 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-20T10:14:10+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-10-20T10:14:10+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-10-20T10:14:10+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-10-20T15:11:30+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-10-20T15:11:30+00:00,central,Central,tube,6,Severe Delays,"Central Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses, Liberty line, Elizabeth line, Chiltern Railways, Great Western Railway and Greater Anglia.",RealTime,2026-10-20T13:22:40Z,2026-10-21T00:29:00Z
+2026-10-20T15:11:30+00:00,circle,Circle,tube,6,Severe Delays,"Circle Line: No service between Aldgate and Edgware Road via Embankment and SEVERE DELAYS between Hammersmith and Aldgate while we fix a signal failure at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line.",RealTime,2026-10-20T13:43:31Z,2026-10-21T00:29:00Z
+2026-10-20T15:11:30+00:00,circle,Circle,tube,3,Part Suspended,"Circle Line: No service between Aldgate and Edgware Road via Embankment and SEVERE DELAYS between Hammersmith and Aldgate while we fix a signal failure at Mansion House. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, and Mildmay Line.",RealTime,2026-10-20T13:43:31Z,2026-10-20T18:09:39Z
+2026-10-20T15:11:30+00:00,district,District,tube,6,Severe Delays,"District Line: No service between Tower Hill and Earl's Court while we fix a signal fault at Mansion House. SEVERE DELAYS on the rest of the line. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, South Western Railway and Mildmay Line.",RealTime,2026-10-20T14:57:56Z,2026-10-21T00:29:00Z
+2026-10-20T15:11:30+00:00,district,District,tube,3,Part Suspended,"District Line: No service between Tower Hill and Earl's Court while we fix a signal fault at Mansion House. SEVERE DELAYS on the rest of the line. Tickets will be accepted on London buses, C2C, Elizabeth Line, DLR, South Western Railway and Mildmay Line.",RealTime,2026-10-20T14:57:56Z,2026-10-20T18:09:39Z
+2026-10-20T15:11:30+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-10-20T15:11:30+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-10-20T15:11:30+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-10-20T15:11:30+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-10-20T15:11:30+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-10-20T15:11:30+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime,2026-10-20T13:45:24Z,2026-10-21T00:29:00Z
+2026-10-20T15:11:30+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
