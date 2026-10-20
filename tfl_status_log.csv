@@ -1655,3 +1655,16 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-20T00:38:15+00:00,piccadilly,Piccadilly,tube,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime,2026-10-20T00:37:01Z,2026-10-20T03:37:32Z
 2026-10-20T00:38:15+00:00,victoria,Victoria,tube,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime,2026-10-20T00:37:22Z,2026-10-20T03:37:32Z
 2026-10-20T00:38:15+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime,2026-10-19T23:31:51Z,2026-10-20T03:37:32Z
+2026-10-20T05:20:02+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-10-20T05:20:02+00:00,central,Central,tube,10,Good Service,,,,
+2026-10-20T05:20:02+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-10-20T05:20:02+00:00,district,District,tube,6,Severe Delays,"District Line: Severe delays between Earls Court and Wimbledon, SEVERE DELAYS between Earl's Court and Barking eastbound only due to train cancellations. Tickets will be accepted on London Buses and South Western Railway. GOOD SERVICE on the rest of the line.",RealTime,2026-10-20T05:06:48Z,2026-10-21T00:29:00Z
+2026-10-20T05:20:02+00:00,district,District,tube,6,Severe Delays,"District Line: Severe delays between Earls Court and Wimbledon, SEVERE DELAYS between Earl's Court and Barking eastbound only due to train cancellations. Tickets will be accepted on London Buses and South Western Railway. GOOD SERVICE on the rest of the line.",RealTime,2026-10-20T05:06:48Z,2026-10-21T00:29:00Z
+2026-10-20T05:20:02+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-10-20T05:20:02+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-10-20T05:20:02+00:00,metropolitan,Metropolitan,tube,6,Severe Delays,Metropolitan Line: Severe delays between Moor Park and Amersham  and MINOR DELAYS between Moor Park and Watford. due to train cancellations. GOOD SERVICE on the rest of line.,RealTime,2026-10-20T04:57:42Z,2026-10-21T00:29:00Z
+2026-10-20T05:20:02+00:00,metropolitan,Metropolitan,tube,9,Minor Delays,Metropolitan Line: Severe delays between Moor Park and Amersham  and MINOR DELAYS between Moor Park and Watford. due to train cancellations. GOOD SERVICE on the rest of line.,RealTime,2026-10-20T04:57:42Z,2026-10-21T00:29:00Z
+2026-10-20T05:20:02+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-10-20T05:20:02+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-10-20T05:20:02+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-10-20T05:20:02+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
