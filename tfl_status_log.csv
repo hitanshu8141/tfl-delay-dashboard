@@ -1730,3 +1730,15 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-21T05:50:31+00:00,piccadilly,Piccadilly,tube,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Rayners Lane due to an earlier points failure at Northfields. GOOD SERVICE on the rest of the line.,RealTime,2026-10-21T05:31:24Z,2026-10-22T00:29:00Z
 2026-10-21T05:50:31+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-10-21T05:50:31+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-10-21T11:27:29+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-10-21T11:27:29+00:00,central,Central,tube,10,Good Service,,,,
+2026-10-21T11:27:29+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-10-21T11:27:29+00:00,district,District,tube,10,Good Service,,,,
+2026-10-21T11:27:29+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-10-21T11:27:29+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-10-21T11:27:29+00:00,metropolitan,Metropolitan,tube,3,Part Suspended,Metropolitan Line: No service between Rickmansworth and Amersham/Chesham while we remove an obstruction from the track at Chalfont & Latimer. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.,RealTime,2026-10-21T11:00:28Z,2026-10-21T14:26:19Z
+2026-10-21T11:27:29+00:00,metropolitan,Metropolitan,tube,3,Part Suspended,Metropolitan Line: No service between Rickmansworth and Amersham/Chesham while we remove an obstruction from the track at Chalfont & Latimer. London Buses are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.,RealTime,2026-10-21T11:00:28Z,2026-10-21T14:26:19Z
+2026-10-21T11:27:29+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-10-21T11:27:29+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-10-21T11:27:29+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-10-21T11:27:29+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
