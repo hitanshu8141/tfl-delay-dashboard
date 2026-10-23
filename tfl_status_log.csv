@@ -1847,3 +1847,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-22T23:40:59+00:00,piccadilly,Piccadilly,tube,6,Severe Delays,"Piccadilly Line: Severe delays due to a signal failure at Leicester Square. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses, Elizabeth Line, Great Northern and Weaver line services via any reasonable route.",RealTime,2026-10-22T22:43:31Z,2026-10-24T00:29:00Z
 2026-10-22T23:40:59+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-10-22T23:40:59+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime,2026-10-22T23:37:01Z,2026-10-23T02:38:57Z
+2026-10-23T02:00:50+00:00,bakerloo,Bakerloo,tube,20,Service Closed,Bakerloo Line: Service will resume later this morning.,RealTime,2026-10-23T00:16:02Z,2026-10-23T04:59:29Z
+2026-10-23T02:00:50+00:00,central,Central,tube,20,Service Closed,Central Line: Service will resume later this morning.,RealTime,2026-10-23T00:16:34Z,2026-10-23T04:59:29Z
+2026-10-23T02:00:50+00:00,circle,Circle,tube,20,Service Closed,Circle Line: Service will resume later this morning.,RealTime,2026-10-23T00:16:48Z,2026-10-23T04:59:29Z
+2026-10-23T02:00:50+00:00,district,District,tube,20,Service Closed,District Line: Service will resume later this morning.,RealTime,2026-10-23T00:16:57Z,2026-10-23T04:59:29Z
+2026-10-23T02:00:50+00:00,hammersmith-city,Hammersmith & City,tube,20,Service Closed,Hammersmith and City Line: Service will resume later this morning.,RealTime,2026-10-23T00:17:04Z,2026-10-23T04:59:29Z
+2026-10-23T02:00:50+00:00,jubilee,Jubilee,tube,20,Service Closed,Jubilee Line: Service will resume later this morning.,RealTime,2026-10-23T00:17:19Z,2026-10-23T04:59:29Z
+2026-10-23T02:00:50+00:00,metropolitan,Metropolitan,tube,20,Service Closed,Metropolitan Line: Service will resume later this morning.,RealTime,2026-10-23T00:18:40Z,2026-10-23T04:59:29Z
+2026-10-23T02:00:50+00:00,northern,Northern,tube,20,Service Closed,Northern Line: Service will resume later this morning.,RealTime,2026-10-23T00:18:46Z,2026-10-23T04:59:29Z
+2026-10-23T02:00:50+00:00,piccadilly,Piccadilly,tube,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime,2026-10-23T00:19:06Z,2026-10-23T04:59:29Z
+2026-10-23T02:00:50+00:00,victoria,Victoria,tube,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime,2026-10-23T00:19:26Z,2026-10-23T04:59:29Z
+2026-10-23T02:00:50+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime,2026-10-22T23:37:01Z,2026-10-23T04:59:29Z
