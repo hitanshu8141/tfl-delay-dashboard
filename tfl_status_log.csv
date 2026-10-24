@@ -1996,3 +1996,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-24T21:12:25+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-10-24T21:12:25+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-10-24T21:12:25+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information,2026-10-24T03:15:00Z,2026-10-24T22:59:00Z
+2026-10-24T23:22:40+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-10-24T23:22:40+00:00,central,Central,tube,10,Good Service,,,,
+2026-10-24T23:22:40+00:00,circle,Circle,tube,5,Part Closure,"CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)",PlannedWork,2026-10-24T03:30:00Z,2026-10-26T01:29:00Z
+2026-10-24T23:22:40+00:00,district,District,tube,5,Part Closure,"DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level.",PlannedWork,2026-10-24T03:30:00Z,2026-10-26T01:29:00Z
+2026-10-24T23:22:40+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-10-24T23:22:40+00:00,jubilee,Jubilee,tube,9,Minor Delays,Jubilee Line: Minor delays due to an earlier faulty train at Westminster and Finchley Road.,RealTime,2026-10-24T20:20:26Z,2026-10-26T01:29:00Z
+2026-10-24T23:22:40+00:00,metropolitan,Metropolitan,tube,6,Severe Delays,"Metropolitan Line: Severe delays due to an earlier tree on the track at Neasden. London Buses, London Northwestern Railway, Chiltern Railways, Lioness line and Thameslink are accepting valid tickets via any reasonable route.",RealTime,2026-10-24T22:30:33Z,2026-10-26T01:29:00Z
+2026-10-24T23:22:40+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-10-24T23:22:40+00:00,piccadilly,Piccadilly,tube,6,Severe Delays,Piccadilly Line: Severe delays between Acton Town and Heathrow Terminals due to an earlier tree on the track at Hounslow West. London Buses and Elizabeth line are accepting valid tickets. GOOD SERVICE on the rest of the line.,RealTime,2026-10-24T23:20:52Z,2026-10-26T01:29:00Z
+2026-10-24T23:22:40+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-10-24T23:22:40+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information,2026-10-24T23:00:00Z,2026-10-25T01:15:00Z
