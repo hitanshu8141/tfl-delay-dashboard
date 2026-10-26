@@ -2129,3 +2129,18 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-26T14:12:57+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-10-26T14:12:57+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-10-26T14:12:57+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-10-26T19:59:42+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-10-26T19:59:42+00:00,central,Central,tube,6,Severe Delays,Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route.,RealTime,2026-10-26T18:01:47Z,2026-10-27T01:29:00Z
+2026-10-26T19:59:42+00:00,central,Central,tube,6,Severe Delays,Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route.,RealTime,2026-10-26T18:01:47Z,2026-10-27T01:29:00Z
+2026-10-26T19:59:42+00:00,central,Central,tube,9,Minor Delays,Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route.,RealTime,2026-10-26T18:01:47Z,2026-10-27T01:29:00Z
+2026-10-26T19:59:42+00:00,central,Central,tube,6,Severe Delays,Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route.,RealTime,2026-10-26T18:01:47Z,2026-10-27T01:29:00Z
+2026-10-26T19:59:42+00:00,central,Central,tube,6,Severe Delays,Central Line: Severe delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS on the rest of the line due to train cancellations. London Buses are accepting tickets via any reasonable route.,RealTime,2026-10-26T18:01:47Z,2026-10-27T01:29:00Z
+2026-10-26T19:59:42+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-10-26T19:59:42+00:00,district,District,tube,10,Good Service,,,,
+2026-10-26T19:59:42+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-10-26T19:59:42+00:00,jubilee,Jubilee,tube,9,Minor Delays,Jubilee Line: Minor delays due to earlier faulty platform edge doors at Canary Wharf.,RealTime,2026-10-26T18:20:43Z,2026-10-27T01:29:00Z
+2026-10-26T19:59:42+00:00,metropolitan,Metropolitan,tube,3,Part Suspended,Metropolitan Line: No service between Harrow-on-the-Hill and Uxbridge while we fix a signal failure at Ruislip. GOOD SERVICE on the rest of the line. Tickets being accepted on London Buses.,RealTime,2026-10-26T19:53:32Z,2026-10-26T22:57:36Z
+2026-10-26T19:59:42+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-10-26T19:59:42+00:00,piccadilly,Piccadilly,tube,3,Part Suspended,Piccadilly Line: No service between Rayners Lane and Uxbridge while we fix a signal failure at Ruislip. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route.,RealTime,2026-10-26T19:56:11Z,2026-10-26T22:57:36Z
+2026-10-26T19:59:42+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime,2026-10-26T17:00:03Z,2026-10-27T01:29:00Z
+2026-10-26T19:59:42+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
