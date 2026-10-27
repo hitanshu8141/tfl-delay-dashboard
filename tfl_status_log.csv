@@ -2189,3 +2189,16 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-27T14:44:15+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-10-27T14:44:15+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-10-27T14:44:15+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-10-27T19:41:33+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-10-27T19:41:33+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays due to train cancellations and an earlier signal failure at North Acton.,RealTime,2026-10-27T19:18:07Z,2026-10-28T01:29:00Z
+2026-10-27T19:41:33+00:00,circle,Circle,tube,9,Minor Delays,Circle Line: Minor delays due to an earlier faulty train at Monument.,RealTime,2026-10-27T19:37:33Z,2026-10-28T01:29:00Z
+2026-10-27T19:41:33+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays between Tower Hill and  Ealing Broadway/Richmond/ Wimbledon due to an earlier faulty train at Monument. GOOD SERVICE on the rest of the line.,RealTime,2026-10-27T18:36:12Z,2026-10-28T01:29:00Z
+2026-10-27T19:41:33+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays between Tower Hill and  Ealing Broadway/Richmond/ Wimbledon due to an earlier faulty train at Monument. GOOD SERVICE on the rest of the line.,RealTime,2026-10-27T18:36:12Z,2026-10-28T01:29:00Z
+2026-10-27T19:41:33+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays between Tower Hill and  Ealing Broadway/Richmond/ Wimbledon due to an earlier faulty train at Monument. GOOD SERVICE on the rest of the line.,RealTime,2026-10-27T18:36:12Z,2026-10-28T01:29:00Z
+2026-10-27T19:41:33+00:00,hammersmith-city,Hammersmith & City,tube,9,Minor Delays,Hammersmith and City Line: Minor delays between Edgware Road and Hammersmith due to an earlier points failure at Hammersmith. GOOD SERVICE on the rest of the line.,RealTime,2026-10-27T15:51:45Z,2026-10-28T01:29:00Z
+2026-10-27T19:41:33+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-10-27T19:41:33+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-10-27T19:41:33+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-10-27T19:41:33+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-10-27T19:41:33+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime,2026-10-27T18:18:35Z,2026-10-28T01:29:00Z
+2026-10-27T19:41:33+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
