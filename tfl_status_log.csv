@@ -2292,3 +2292,15 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-29T13:26:26+00:00,piccadilly,Piccadilly,tube,5,Part Closure,"PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate.",PlannedWork,2026-10-28T04:30:00Z,2026-10-31T01:29:00Z
 2026-10-29T13:26:26+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-10-29T13:26:26+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-10-29T19:09:33+00:00,bakerloo,Bakerloo,tube,9,Minor Delays,Bakerloo Line:  Minor delays due to an earlier fire alert at Embankment.,RealTime,2026-10-29T18:40:29Z,2026-10-30T01:29:00Z
+2026-10-29T19:09:33+00:00,central,Central,tube,9,Minor Delays,Central Line:  Minor delays due to train cancellations.,RealTime,2026-10-29T15:31:42Z,2026-10-30T01:29:00Z
+2026-10-29T19:09:33+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-10-29T19:09:33+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays between Barking and Upminster and between Turnham Green and Richmond due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-10-29T18:17:01Z,2026-10-30T01:29:00Z
+2026-10-29T19:09:33+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays between Barking and Upminster and between Turnham Green and Richmond due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-10-29T18:17:01Z,2026-10-30T01:29:00Z
+2026-10-29T19:09:33+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-10-29T19:09:33+00:00,jubilee,Jubilee,tube,9,Minor Delays,Jubilee Line: Minor delays due to train cancellations.,RealTime,2026-10-29T18:14:54Z,2026-10-30T01:29:00Z
+2026-10-29T19:09:33+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-10-29T19:09:33+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-10-29T19:09:33+00:00,piccadilly,Piccadilly,tube,5,Part Closure,"PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate.",PlannedWork,2026-10-28T04:30:00Z,2026-10-31T01:29:00Z
+2026-10-29T19:09:33+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line:  Minor delays due to train cancellations.,RealTime,2026-10-29T16:07:26Z,2026-10-30T01:29:00Z
+2026-10-29T19:09:33+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
