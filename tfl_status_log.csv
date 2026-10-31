@@ -2383,3 +2383,16 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-10-31T05:32:46+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-10-31T05:32:46+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information,2026-10-31T04:15:00Z,2026-10-31T23:59:00Z
 2026-10-31T05:32:46+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime,2026-10-31T00:30:47Z,2026-10-31T08:32:24Z
+2026-10-31T11:14:09+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-10-31T11:14:09+00:00,central,Central,tube,10,Good Service,,,,
+2026-10-31T11:14:09+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-10-31T11:14:09+00:00,district,District,tube,6,Severe Delays,District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line.,RealTime,2026-10-31T10:38:31Z,2026-11-01T01:29:00Z
+2026-10-31T11:14:09+00:00,district,District,tube,9,Minor Delays,District Line: Severe delays  between  Earl's Court and Kensington Olympia due to train cancellations. MINOR DELAYS on the rest of the line.,RealTime,2026-10-31T10:38:31Z,2026-11-01T01:29:00Z
+2026-10-31T11:14:09+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-10-31T11:14:09+00:00,jubilee,Jubilee,tube,9,Minor Delays,Jubilee Line: Minor delays due to an earlier customer incident at Willesden Green.,RealTime,2026-10-31T08:53:50Z,2026-11-01T01:29:00Z
+2026-10-31T11:14:09+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-10-31T11:14:09+00:00,northern,Northern,tube,6,Severe Delays,"Northern Line: Severe delays due to train cancellations. Tickets will be accepted on London Buses, London trams, Southeastern, Thameslink and South Western Railway services.",RealTime,2026-10-31T06:01:08Z,2026-11-01T01:29:00Z
+2026-10-31T11:14:09+00:00,piccadilly,Piccadilly,tube,4,Planned Closure,"PICCADILLY LINE: Saturday 31 October, from 0100, and all day Sunday 1 November, including Friday and Saturday Night Tube, no service on the entire line. Use ELIZABETH LINE services between Central London and Heathrow, and METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement bus services operate.",PlannedWork,2026-10-31T01:00:00Z,2026-11-02T01:29:00Z
+2026-10-31T11:14:09+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-10-31T11:14:09+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information,2026-10-31T04:15:00Z,2026-10-31T23:59:00Z
+2026-10-31T11:14:09+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime,2026-10-31T00:30:47Z,2026-10-31T14:13:14Z
