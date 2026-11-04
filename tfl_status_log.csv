@@ -2617,3 +2617,17 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-11-04T11:26:14+00:00,piccadilly,Piccadilly,tube,6,Severe Delays,"Piccadilly Line: Severe delays due to an earlier signal failure at South Kensington. Tickets are being accepted on London Buses, Weaver line, Great Northern, South Western Railway, Weaver line and Elizabeth Line services via any reasonable route.",RealTime,2026-11-04T09:23:59Z,2026-11-05T01:29:00Z
 2026-11-04T11:26:14+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-11-04T11:26:14+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-11-04T18:47:19+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-11-04T18:47:19+00:00,central,Central,tube,6,Severe Delays,Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.,RealTime,2026-11-04T18:00:54Z,2026-11-05T01:29:00Z
+2026-11-04T18:47:19+00:00,central,Central,tube,6,Severe Delays,Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.,RealTime,2026-11-04T18:00:54Z,2026-11-05T01:29:00Z
+2026-11-04T18:47:19+00:00,central,Central,tube,9,Minor Delays,Central Line: Severe delays between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.,RealTime,2026-11-04T18:00:54Z,2026-11-05T01:29:00Z
+2026-11-04T18:47:19+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-11-04T18:47:19+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays due to train cancellations.,RealTime,2026-11-04T18:34:41Z,2026-11-05T01:29:00Z
+2026-11-04T18:47:19+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-11-04T18:47:19+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-11-04T18:47:19+00:00,metropolitan,Metropolitan,tube,9,Minor Delays,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge while we fix a signal failure at Ruislip.  MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound departure from Chesham will be at 19:25. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line.,RealTime,2026-11-04T18:36:20Z,2026-11-05T01:29:00Z
+2026-11-04T18:47:19+00:00,metropolitan,Metropolitan,tube,6,Severe Delays,Metropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge while we fix a signal failure at Ruislip.  MINOR DELAYS between Moor Park and Chesham due to train cancellations. The next southbound departure from Chesham will be at 19:25. Tickets will be accepted on London Buses. GOOD SERVICE on the rest of the line.,RealTime,2026-11-04T18:36:20Z,2026-11-05T01:29:00Z
+2026-11-04T18:47:19+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-11-04T18:47:19+00:00,piccadilly,Piccadilly,tube,6,Severe Delays,Piccadilly Line: Severe delays between Rayners Lane and Uxbridge due to a signal failure at Ruislip. Tickets being accepted on London Buses. GOOD SERVICE on the rest of the line.,RealTime,2026-11-04T18:14:16Z,2026-11-05T01:29:00Z
+2026-11-04T18:47:19+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime,2026-11-04T16:20:18Z,2026-11-05T01:29:00Z
+2026-11-04T18:47:19+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
