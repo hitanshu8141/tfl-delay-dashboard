@@ -2715,3 +2715,15 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-11-06T16:16:21+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-11-06T16:16:21+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays while due to a earlier faulty train at Green Park.,RealTime,2026-11-06T15:48:31Z,2026-11-07T01:29:00Z
 2026-11-06T16:16:21+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-11-06T21:37:44+00:00,bakerloo,Bakerloo,tube,9,Minor Delays,"Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden. Tickets will be accepted on London Buses, Lioness line and London Northwestern services. MINOR DELAYS on the rest of the line.",RealTime,2026-11-06T20:45:13Z,2026-11-07T01:29:00Z
+2026-11-06T21:37:44+00:00,bakerloo,Bakerloo,tube,3,Part Suspended,"Bakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to infrastructure damage at Harlesden. Tickets will be accepted on London Buses, Lioness line and London Northwestern services. MINOR DELAYS on the rest of the line.",RealTime,2026-11-06T20:45:13Z,2026-11-07T00:36:32Z
+2026-11-06T21:37:44+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime,2026-11-06T20:29:16Z,2026-11-07T01:29:00Z
+2026-11-06T21:37:44+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-11-06T21:37:44+00:00,district,District,tube,10,Good Service,,,,
+2026-11-06T21:37:44+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-11-06T21:37:44+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-11-06T21:37:44+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-11-06T21:37:44+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-11-06T21:37:44+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-11-06T21:37:44+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime,2026-11-06T16:18:54Z,2026-11-07T01:29:00Z
+2026-11-06T21:37:44+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
