@@ -2738,3 +2738,16 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-11-07T01:13:25+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-11-07T01:13:25+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime,2026-11-06T16:18:54Z,2026-11-08T01:29:00Z
 2026-11-07T01:13:25+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime,2026-11-07T00:27:15Z,2026-11-07T04:13:17Z
+2026-11-07T07:18:46+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-11-07T07:18:46+00:00,central,Central,tube,9,Minor Delays,"Central Line: No service between West Ruislip and Ruislip Gardens and, MINOR DELAYS between Ruislip Gardens and North Acton while we fix a faulty train at West Ruislip. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.",RealTime,2026-11-07T07:04:21Z,2026-11-08T01:29:00Z
+2026-11-07T07:18:46+00:00,central,Central,tube,3,Part Suspended,"Central Line: No service between West Ruislip and Ruislip Gardens and, MINOR DELAYS between Ruislip Gardens and North Acton while we fix a faulty train at West Ruislip. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.",RealTime,2026-11-07T07:04:21Z,2026-11-07T10:16:56Z
+2026-11-07T07:18:46+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-11-07T07:18:46+00:00,district,District,tube,10,Good Service,,,,
+2026-11-07T07:18:46+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-11-07T07:18:46+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-11-07T07:18:46+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-11-07T07:18:46+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-11-07T07:18:46+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-11-07T07:18:46+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-11-07T07:18:46+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information,2026-11-07T04:15:00Z,2026-11-07T23:59:00Z
+2026-11-07T07:18:46+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime,2026-11-07T04:18:21Z,2026-11-07T10:16:56Z
