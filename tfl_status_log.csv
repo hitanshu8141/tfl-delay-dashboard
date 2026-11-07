@@ -2751,3 +2751,15 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-11-07T07:18:46+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-11-07T07:18:46+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information,2026-11-07T04:15:00Z,2026-11-07T23:59:00Z
 2026-11-07T07:18:46+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime,2026-11-07T04:18:21Z,2026-11-07T10:16:56Z
+2026-11-07T14:13:17+00:00,bakerloo,Bakerloo,tube,6,Severe Delays,"Bakerloo Line: Severe delays between Harrow & Wealdstone and Queen's Park due to infrastructure damage at Harlesden. Tickets are being accepted on London Buses, London Overground and North Western Railway. MINOR DELAYS on the rest of the line.",RealTime,2026-11-07T13:27:38Z,2026-11-08T01:29:00Z
+2026-11-07T14:13:17+00:00,bakerloo,Bakerloo,tube,9,Minor Delays,"Bakerloo Line: Severe delays between Harrow & Wealdstone and Queen's Park due to infrastructure damage at Harlesden. Tickets are being accepted on London Buses, London Overground and North Western Railway. MINOR DELAYS on the rest of the line.",RealTime,2026-11-07T13:27:38Z,2026-11-08T01:29:00Z
+2026-11-07T14:13:17+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays between Epping and Debden while we conduct a track inspection. GOOD SERVICE on the rest of the line.,RealTime,2026-11-07T13:31:25Z,2026-11-08T01:29:00Z
+2026-11-07T14:13:17+00:00,circle,Circle,tube,9,Minor Delays,Circle Line: Minor delays due to an earlier faulty train at Tower Hill.,RealTime,2026-11-07T13:22:22Z,2026-11-08T01:29:00Z
+2026-11-07T14:13:17+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays between Tower Hill and Upminster due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-11-07T13:14:31Z,2026-11-08T01:29:00Z
+2026-11-07T14:13:17+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-11-07T14:13:17+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-11-07T14:13:17+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-11-07T14:13:17+00:00,northern,Northern,tube,6,Severe Delays,Northern Line: Severe delays between Camden Town and Battersea Power Station via Charing Cross due to an earlier fire alert at Embankment. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.,RealTime,2026-11-07T14:02:53Z,2026-11-08T01:29:00Z
+2026-11-07T14:13:17+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-11-07T14:13:17+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-11-07T14:13:17+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information,2026-11-07T04:15:00Z,2026-11-07T23:59:00Z
