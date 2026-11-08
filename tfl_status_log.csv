@@ -2811,3 +2811,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-11-08T08:08:57+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-11-08T08:08:57+00:00,victoria,Victoria,tube,6,Severe Delays,Victoria Line: Severe delays due to an earlier customer incident at King's Cross St Pancras. Tickets are being accepted on London Buses.,RealTime,2026-11-08T07:34:18Z,2026-11-09T01:29:00Z
 2026-11-08T08:08:57+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information,2026-11-08T04:15:00Z,2026-11-08T23:59:00Z
+2026-11-08T15:12:42+00:00,bakerloo,Bakerloo,tube,6,Severe Delays,Bakerloo Line: Severe delays due to earlier infrastructure damage at Harlesden and while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway.,RealTime,2026-11-08T13:33:32Z,2026-11-09T01:29:00Z
+2026-11-08T15:12:42+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime,2026-11-08T10:04:15Z,2026-11-09T01:29:00Z
+2026-11-08T15:12:42+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-11-08T15:12:42+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays between Earl's Court and Ealing Broadway due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-11-08T13:36:30Z,2026-11-09T01:29:00Z
+2026-11-08T15:12:42+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-11-08T15:12:42+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-11-08T15:12:42+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-11-08T15:12:42+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-11-08T15:12:42+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-11-08T15:12:42+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-11-08T15:12:42+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information,2026-11-08T04:15:00Z,2026-11-08T23:59:00Z
