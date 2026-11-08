@@ -2833,3 +2833,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-11-08T19:46:24+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-11-08T19:46:24+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-11-08T19:46:24+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information,2026-11-08T04:15:00Z,2026-11-08T23:59:00Z
+2026-11-08T23:13:05+00:00,bakerloo,Bakerloo,tube,6,Severe Delays,Bakerloo Line: Severe delays due to earlier infrastructure damage at Harlesden and while we fix a points failure at Elephant and Castle. Tickets are being accepted on London Buses and London Northwestern Railway.,RealTime,2026-11-08T13:33:32Z,2026-11-09T01:29:00Z
+2026-11-08T23:13:05+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime,2026-11-08T19:49:02Z,2026-11-09T01:29:00Z
+2026-11-08T23:13:05+00:00,circle,Circle,tube,9,Minor Delays,Circle Line: Minor delays due to train cancellations.,RealTime,2026-11-08T20:18:11Z,2026-11-09T01:29:00Z
+2026-11-08T23:13:05+00:00,district,District,tube,10,Good Service,,,,
+2026-11-08T23:13:05+00:00,hammersmith-city,Hammersmith & City,tube,6,Severe Delays,"Hammersmith and City Line: Severe delays due to train cancellations. Customers wishing to travel to Barking should change at Plaistow for a District line train. Tickets will also be accepted on London Buses, DLR, Elizabeth line and c2c services.",RealTime,2026-11-08T20:28:41Z,2026-11-09T01:29:00Z
+2026-11-08T23:13:05+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-11-08T23:13:05+00:00,metropolitan,Metropolitan,tube,9,Minor Delays,Metropolitan Line: Minor delays between Moor Park and Chesham due to train cancellations. The next southbound train will be at 23:26. GOOD SERVICE on the rest of the line.,RealTime,2026-11-08T22:26:36Z,2026-11-09T01:29:00Z
+2026-11-08T23:13:05+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-11-08T23:13:05+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-11-08T23:13:05+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-11-08T23:13:05+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information,2026-11-08T04:15:00Z,2026-11-08T23:59:00Z
