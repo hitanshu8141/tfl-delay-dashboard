@@ -2912,3 +2912,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-11-10T18:50:18+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-11-10T18:50:18+00:00,victoria,Victoria,tube,6,Severe Delays,"Victoria Line: Severe delays while we fix a track fault at Brixton. Tickets are being accepted on London Buses, London Overground, Great Northern Railway, Thameslink, Greater Anglia, South Western Railway and Southeastern Railway services.",RealTime,2026-11-10T17:35:35Z,2026-11-11T01:29:00Z
 2026-11-10T18:50:18+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-11-10T23:56:46+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-11-10T23:56:46+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime,2026-11-10T16:05:43Z,2026-11-11T01:29:00Z
+2026-11-10T23:56:46+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-11-10T23:56:46+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays due to train cancellations.,RealTime,2026-11-10T22:29:27Z,2026-11-11T01:29:00Z
+2026-11-10T23:56:46+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-11-10T23:56:46+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-11-10T23:56:46+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-11-10T23:56:46+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-11-10T23:56:46+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-11-10T23:56:46+00:00,victoria,Victoria,tube,6,Severe Delays,"Victoria Line: Severe delays due to a track fault at Brixton. Tickets are being accepted on London Buses, London Overground, Great Northern Railway, Thameslink, Greater Anglia, South Western Railway and Southeastern Railway services.",RealTime,2026-11-10T18:50:14Z,2026-11-11T01:29:00Z
+2026-11-10T23:56:46+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
