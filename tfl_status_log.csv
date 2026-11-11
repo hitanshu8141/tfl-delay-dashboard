@@ -2949,3 +2949,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-11-11T13:51:08+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-11-11T13:51:08+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-11-11T13:51:08+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-11-11T21:08:18+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-11-11T21:08:18+00:00,central,Central,tube,10,Good Service,,,,
+2026-11-11T21:08:18+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-11-11T21:08:18+00:00,district,District,tube,6,Severe Delays,"District Line: Severe delays while we fix a signal failure at Stamford Brook and due to train cancellations. Tickets are being accepted London Buses, Mildmay line, Elizabeth line and South Western Railway via any reasonable route.",RealTime,2026-11-11T19:40:24Z,2026-11-12T01:29:00Z
+2026-11-11T21:08:18+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-11-11T21:08:18+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-11-11T21:08:18+00:00,metropolitan,Metropolitan,tube,3,Part Suspended,Metropolitan Line: No service between Chalfont & Latimer and Chesham while we fix a points failure at Chalfont & Latimer. GOOD SERVICE on the rest of the line.,RealTime,2026-11-11T20:32:17Z,2026-11-12T00:06:56Z
+2026-11-11T21:08:18+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-11-11T21:08:18+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-11-11T21:08:18+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-11-11T21:08:18+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
