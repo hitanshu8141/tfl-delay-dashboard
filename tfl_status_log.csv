@@ -2971,3 +2971,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-11-12T02:16:00+00:00,piccadilly,Piccadilly,tube,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime,2026-11-12T01:16:30Z,2026-11-12T05:14:35Z
 2026-11-12T02:16:00+00:00,victoria,Victoria,tube,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime,2026-11-12T01:16:47Z,2026-11-12T05:14:35Z
 2026-11-12T02:16:00+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime,2026-11-12T00:25:41Z,2026-11-12T05:14:35Z
+2026-11-12T09:57:14+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-11-12T09:57:14+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime,2026-11-12T07:01:11Z,2026-11-13T01:29:00Z
+2026-11-12T09:57:14+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-11-12T09:57:14+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays due to train cancellations.,RealTime,2026-11-12T08:52:07Z,2026-11-13T01:29:00Z
+2026-11-12T09:57:14+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-11-12T09:57:14+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-11-12T09:57:14+00:00,metropolitan,Metropolitan,tube,9,Minor Delays,Metropolitan Line: Minor Delays between Harrow-on-Hill and Aldgate while we fix a points failure at Liverpool Street. GOOD SERVICE on the rest of the line.,RealTime,2026-11-12T08:39:18Z,2026-11-13T01:29:00Z
+2026-11-12T09:57:14+00:00,northern,Northern,tube,9,Minor Delays,Northern Line: Minor delays between Camden Town and Kennington via Charing Cross while we fix a points failure at Kennington. GOOD SERVICE on the rest of the line.,RealTime,2026-11-12T08:31:42Z,2026-11-13T01:29:00Z
+2026-11-12T09:57:14+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-11-12T09:57:14+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime,2026-11-12T06:23:24Z,2026-11-13T01:29:00Z
+2026-11-12T09:57:14+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
