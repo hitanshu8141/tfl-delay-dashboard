@@ -3042,3 +3042,15 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-11-13T18:45:08+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-11-13T18:45:08+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-11-13T18:45:08+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-11-13T23:56:36+00:00,bakerloo,Bakerloo,tube,2,Suspended,"Bakerloo Line: No Service while we respond to a security alert. Tickets accepted on London Buses, London Overground, London NorthWestern railway and Thameslink Services via any reasonable route.",RealTime,2026-11-13T22:59:14Z,2026-11-14T02:55:04Z
+2026-11-13T23:56:36+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays due to train cancellations.,RealTime,2026-11-13T19:42:34Z,2026-11-14T01:29:00Z
+2026-11-13T23:56:36+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-11-13T23:56:36+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays due to an earlier faulty train at Richmond and train cancellations.,RealTime,2026-11-13T22:24:36Z,2026-11-14T01:29:00Z
+2026-11-13T23:56:36+00:00,hammersmith-city,Hammersmith & City,tube,9,Minor Delays,Hammersmith and City Line: Minor delays due to train cancellations.,RealTime,2026-11-13T22:26:49Z,2026-11-14T01:29:00Z
+2026-11-13T23:56:36+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-11-13T23:56:36+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-11-13T23:56:36+00:00,northern,Northern,tube,9,Minor Delays,Northern Line: Minor delays due to an earlier fire alert at Stockwell.,RealTime,2026-11-13T23:28:21Z,2026-11-14T01:29:00Z
+2026-11-13T23:56:36+00:00,piccadilly,Piccadilly,tube,6,Severe Delays,Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS on the rest of the line due to the unavailability of depot staff. Tickets are being accepted on London Buses.,RealTime,2026-11-13T21:56:00Z,2026-11-14T01:29:00Z
+2026-11-13T23:56:36+00:00,piccadilly,Piccadilly,tube,9,Minor Delays,Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS on the rest of the line due to the unavailability of depot staff. Tickets are being accepted on London Buses.,RealTime,2026-11-13T21:56:00Z,2026-11-14T01:29:00Z
+2026-11-13T23:56:36+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to an earlier security alert.,RealTime,2026-11-13T23:42:10Z,2026-11-14T01:29:00Z
+2026-11-13T23:56:36+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
