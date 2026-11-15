@@ -3146,3 +3146,15 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-11-15T16:35:39+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-11-15T16:35:39+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-11-15T16:35:39+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information,2026-11-15T04:15:00Z,2026-11-15T23:59:00Z
+2026-11-15T21:16:48+00:00,bakerloo,Bakerloo,tube,3,Part Suspended,Bakerloo Line: No service between Stonebridge Park and Harrow & Wealdstone while we fix a signal failure at Kenton. Please use the Lioness line to complete your journey. Tickets are also being accepted on London Buses. GOOD SERVICE on the rest of the line.,RealTime,2026-11-15T18:47:05Z,2026-11-16T00:16:05Z
+2026-11-15T21:16:48+00:00,central,Central,tube,9,Minor Delays,Central Line: Minor delays due train cancellations.,RealTime,2026-11-15T13:26:41Z,2026-11-16T01:29:00Z
+2026-11-15T21:16:48+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-11-15T21:16:48+00:00,district,District,tube,10,Good Service,,,,
+2026-11-15T21:16:48+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-11-15T21:16:48+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-11-15T21:16:48+00:00,metropolitan,Metropolitan,tube,9,Minor Delays,Metropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-11-15T19:31:03Z,2026-11-16T01:29:00Z
+2026-11-15T21:16:48+00:00,northern,Northern,tube,5,Part Closure,"NORTHERN LINE: From 0530 Sunday 15 November, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. Replacement bus services operate.",PlannedWork,2026-11-15T05:30:00Z,2026-11-16T01:30:00Z
+2026-11-15T21:16:48+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-11-15T21:16:48+00:00,victoria,Victoria,tube,6,Severe Delays,"Victoria Line: No service between Victoria and Brixton while we fix a points failure at Brixton. SEVERE DELAYS on the rest of the line due to an earlier fire alert at Seven Sisters. Tickets are being accepted on London Buses, Suffragette line, Weaver line, Greater Anglia, Southeastern and South Western Railway services.",RealTime,2026-11-15T19:53:55Z,2026-11-16T01:29:00Z
+2026-11-15T21:16:48+00:00,victoria,Victoria,tube,3,Part Suspended,"Victoria Line: No service between Victoria and Brixton while we fix a points failure at Brixton. SEVERE DELAYS on the rest of the line due to an earlier fire alert at Seven Sisters. Tickets are being accepted on London Buses, Suffragette line, Weaver line, Greater Anglia, Southeastern and South Western Railway services.",RealTime,2026-11-15T19:53:55Z,2026-11-16T00:16:05Z
+2026-11-15T21:16:48+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information,2026-11-15T04:15:00Z,2026-11-15T23:59:00Z
