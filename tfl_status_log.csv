@@ -3256,3 +3256,16 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-11-18T09:17:44+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-11-18T09:17:44+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime,2026-11-18T08:00:48Z,2026-11-19T01:29:00Z
 2026-11-18T09:17:44+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-11-18T18:14:13+00:00,bakerloo,Bakerloo,tube,9,Minor Delays,Bakerloo Line: Minor delays between Stonebridge Park and Harrow & Wealdstone due to an earlier faulty train at Elephant & Castle. GOOD SERVICE on the rest of the line.,RealTime,2026-11-18T16:34:41Z,2026-11-19T01:29:00Z
+2026-11-18T18:14:13+00:00,central,Central,tube,6,Severe Delays,Central Line: Severe delays between Leytonstone and Hainault due to an earlier faulty train at Chancery Lane. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line due to train cancellations.,RealTime,2026-11-18T18:00:34Z,2026-11-19T01:29:00Z
+2026-11-18T18:14:13+00:00,central,Central,tube,9,Minor Delays,Central Line: Severe delays between Leytonstone and Hainault due to an earlier faulty train at Chancery Lane. Tickets are being accepted on London Buses. MINOR DELAYS on the rest of the line due to train cancellations.,RealTime,2026-11-18T18:00:34Z,2026-11-19T01:29:00Z
+2026-11-18T18:14:13+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-11-18T18:14:13+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays between Tower Hill and Earl's Court and between Turnham Green and Richmond due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-11-18T17:32:26Z,2026-11-19T01:29:00Z
+2026-11-18T18:14:13+00:00,district,District,tube,9,Minor Delays,District Line: Minor delays between Tower Hill and Earl's Court and between Turnham Green and Richmond due to train cancellations. GOOD SERVICE on the rest of the line.,RealTime,2026-11-18T17:32:26Z,2026-11-19T01:29:00Z
+2026-11-18T18:14:13+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-11-18T18:14:13+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-11-18T18:14:13+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-11-18T18:14:13+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-11-18T18:14:13+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-11-18T18:14:13+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime,2026-11-18T16:23:57Z,2026-11-19T01:29:00Z
+2026-11-18T18:14:13+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
