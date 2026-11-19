@@ -3269,3 +3269,15 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-11-18T18:14:13+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
 2026-11-18T18:14:13+00:00,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.,RealTime,2026-11-18T16:23:57Z,2026-11-19T01:29:00Z
 2026-11-18T18:14:13+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
+2026-11-19T00:31:25+00:00,bakerloo,Bakerloo,tube,9,Minor Delays,Bakerloo Line: Minor delays due to train cancellations.,RealTime,2026-11-18T20:07:16Z,2026-11-20T01:29:00Z
+2026-11-19T00:31:25+00:00,central,Central,tube,10,Good Service,,,,
+2026-11-19T00:31:25+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-11-19T00:31:25+00:00,district,District,tube,10,Good Service,,,,
+2026-11-19T00:31:25+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-11-19T00:31:25+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-11-19T00:31:25+00:00,metropolitan,Metropolitan,tube,9,Minor Delays,Metropolitan Line: Minor delays between Rickmansworth and Amersham / Chesham due to train cancellations. The next southbound train from Amersham will be at 00:50 and from Chesham at 00:52. GOOD SERVICE on the rest of the line.,RealTime,2026-11-18T23:47:02Z,2026-11-20T01:29:00Z
+2026-11-19T00:31:25+00:00,metropolitan,Metropolitan,tube,9,Minor Delays,Metropolitan Line: Minor delays between Rickmansworth and Amersham / Chesham due to train cancellations. The next southbound train from Amersham will be at 00:50 and from Chesham at 00:52. GOOD SERVICE on the rest of the line.,RealTime,2026-11-18T23:47:02Z,2026-11-20T01:29:00Z
+2026-11-19T00:31:25+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-11-19T00:31:25+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-11-19T00:31:25+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-11-19T00:31:25+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime,2026-11-19T00:29:45Z,2026-11-19T03:31:03Z
