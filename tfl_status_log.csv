@@ -3420,3 +3420,14 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-11-22T02:32:45+00:00,piccadilly,Piccadilly,tube,9,Minor Delays,Piccadilly Line: No service between Rayners Lane and Uxbridge and MINOR DELAYS on the rest of the line due to strike action.,RealTime,2026-11-21T22:58:00Z,2026-11-23T01:29:00Z
 2026-11-22T02:32:45+00:00,victoria,Victoria,tube,10,Good Service,,,,
 2026-11-22T02:32:45+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00 on Monday.,RealTime,2026-11-22T01:15:19Z,2026-11-22T05:31:17Z
+2026-11-22T10:16:18+00:00,bakerloo,Bakerloo,tube,5,Part Closure,"BAKERLOO LINE: Saturday 21 and Sunday 22 November, no service between Queens Park and Harrow & Wealdstone. Please note that special bus service 718 will NOT operate. There will also be no LIONESS LINE service between Euston and Watford Junction. LONDON NORTH WESTERN RAILWAY trains continue to stop at Harrow & Wealdstone. SOUTHERN trains stop at Wembley Central and Harrow & Wealdstone until 1900 Saturday only, not on Sunday.",PlannedWork,2026-11-21T04:30:00Z,2026-11-23T01:29:00Z
+2026-11-22T10:16:18+00:00,central,Central,tube,10,Good Service,,,,
+2026-11-22T10:16:18+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-11-22T10:16:18+00:00,district,District,tube,10,Good Service,,,,
+2026-11-22T10:16:18+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-11-22T10:16:18+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-11-22T10:16:18+00:00,metropolitan,Metropolitan,tube,9,Minor Delays,Metropolitan Line: Minor delays due to train cancellations.,RealTime,2026-11-22T08:53:28Z,2026-11-23T01:29:00Z
+2026-11-22T10:16:18+00:00,northern,Northern,tube,10,Good Service,,,,
+2026-11-22T10:16:18+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-11-22T10:16:18+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-11-22T10:16:18+00:00,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays.",Information,2026-11-22T04:15:00Z,2026-11-22T23:59:00Z
