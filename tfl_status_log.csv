@@ -3490,3 +3490,15 @@ captured_at_utc,line_id,line_name,mode_name,status_severity,status_severity_desc
 2026-11-24T01:43:39+00:00,piccadilly,Piccadilly,tube,20,Service Closed,Piccadilly Line: Service will resume later this morning.,RealTime,2026-11-24T01:10:58Z,2026-11-24T04:43:19Z
 2026-11-24T01:43:39+00:00,victoria,Victoria,tube,20,Service Closed,Victoria Line: Service will resume later this morning.,RealTime,2026-11-24T01:11:22Z,2026-11-24T04:43:19Z
 2026-11-24T01:43:39+00:00,waterloo-city,Waterloo & City,tube,20,Service Closed,Waterloo and City Line: Service will resume at 06:00.,RealTime,2026-11-24T00:26:55Z,2026-11-24T04:43:19Z
+2026-11-24T11:40:16+00:00,bakerloo,Bakerloo,tube,10,Good Service,,,,
+2026-11-24T11:40:16+00:00,central,Central,tube,9,Minor Delays,"Central Line: Severe delays between White City and West Ruislip and MINOR delays on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, Elizabeth line and Great Western Railway services",RealTime,2026-11-24T11:33:56Z,2026-11-25T01:29:00Z
+2026-11-24T11:40:16+00:00,central,Central,tube,6,Severe Delays,"Central Line: Severe delays between White City and West Ruislip and MINOR delays on the rest of the line due to train cancellations. Tickets are being accepted on London Buses, Elizabeth line and Great Western Railway services",RealTime,2026-11-24T11:33:56Z,2026-11-25T01:29:00Z
+2026-11-24T11:40:16+00:00,circle,Circle,tube,10,Good Service,,,,
+2026-11-24T11:40:16+00:00,district,District,tube,10,Good Service,,,,
+2026-11-24T11:40:16+00:00,hammersmith-city,Hammersmith & City,tube,10,Good Service,,,,
+2026-11-24T11:40:16+00:00,jubilee,Jubilee,tube,10,Good Service,,,,
+2026-11-24T11:40:16+00:00,metropolitan,Metropolitan,tube,10,Good Service,,,,
+2026-11-24T11:40:16+00:00,northern,Northern,tube,9,Minor Delays,Northern Line: Minor delays while we fix a points failure at Kennington and train cancellations.,RealTime,2026-11-24T07:27:51Z,2026-11-25T01:29:00Z
+2026-11-24T11:40:16+00:00,piccadilly,Piccadilly,tube,10,Good Service,,,,
+2026-11-24T11:40:16+00:00,victoria,Victoria,tube,10,Good Service,,,,
+2026-11-24T11:40:16+00:00,waterloo-city,Waterloo & City,tube,10,Good Service,,,,
